@@ -5,3 +5,9 @@
 ----------------
 
 <p align="center">The AS8 Organization হলো বাংলাদেশের প্রথম বিকাশকারী সম্প্রদায় যেখানে যেকেউ যোগদান করতে, প্রকল্পে সহযোগিতা করতে, একে অপরের সাথে সংযুক্ত হতে এবং একসাথে ক্যারিয়ারে বিকাশ করতে পারে। আমরা এখানে সারা বছর ধরে প্রয়োজনীয় রিসোর্স, পরামর্শ এবং কোড জ্যাম, হ্যাকাথন এবং বিভিন্ন অনুষ্ঠানের আয়োজন করে বাংলাদেশী শিক্ষার্থীদের সহায়তা করছি।  আমাদের লক্ষ্য হলো এমন একটি শেখার অভিজ্ঞতা তৈরি করা যা একইসাথে আনন্দদায়ক এবং ফলপ্রসূ।</p>
+
+<br>
+
+<p align="center">
+<a href="https://the-as8-organization.github.io/"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a> &nbsp;&nbsp; <a href="mailto:team.as8.org@gmail.com"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a> &nbsp;&nbsp; <a href="https://www.facebook.com/as8org/"><img align="center" width="30px" src="https://raw.githubusercontent.com/The-AS8-organization/.github/main/fb.png" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/company/the-as8-organization"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/linkedin.png" /></a> &nbsp;&nbsp; <a href="https://discord.gg/4aSj56xRwc"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/discord.png" /></a>&nbsp;&nbsp; <a href="https://the-as8-organization.hashnode.dev/"><img align="center" width="30px" src="https://raw.githubusercontent.com/The-AS8-organization/.github/main/hn.png" /></a>&nbsp;&nbsp; <a href="https://www.instagram.com/as8org/"><img align="center" width="30px" src="https://raw.githubusercontent.com/The-AS8-organization/.github/main/insta.png" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCjcS_VOSsg3ju2rwKZVNUnQ"><img align="center" height="30px" src="https://raw.githubusercontent.com/The-AS8-organization/.github/main/yt.png" /></a>
+</p>
