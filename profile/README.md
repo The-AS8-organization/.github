@@ -1,0 +1,5 @@
+<p align="center">"The AS8 organization" is the first actual developer community of Bangladeshi where anyone can join, collaborate on projects, connect with each other, and grow together. We are here to help typical Bangladeshi students by providing necessary resources, mentorship, and organizing code jams, hackathons, and different events throughout the year. We support individuals through the lifelong learning revolution. Our mission is to create a learning experience that is fun and fruitful. We believe that this channel will play a vital role to fulfill our mission.</p> 
+
+----------------
+
+<p align="center">The AS8 Organization হলো বাংলাদেশের প্রথম বিকাশকারী সম্প্রদায় যেখানে যেকেউ যোগদান করতে, প্রকল্পে সহযোগিতা করতে, একে অপরের সাথে সংযুক্ত হতে এবং একসাথে ক্যারিয়ারে বিকাশ করতে পারে। আমরা এখানে সারা বছর ধরে প্রয়োজনীয় রিসোর্স, পরামর্শ এবং কোড জ্যাম, হ্যাকাথন এবং বিভিন্ন অনুষ্ঠানের আয়োজন করে বাংলাদেশী শিক্ষার্থীদের সহায়তা করছি।  আমাদের লক্ষ্য হলো এমন একটি শেখার অভিজ্ঞতা তৈরি করা যা একইসাথে আনন্দদায়ক এবং ফলপ্রসূ।</p>
